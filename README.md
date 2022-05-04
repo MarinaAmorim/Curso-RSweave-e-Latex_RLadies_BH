@@ -12,6 +12,7 @@ Este curso foi ministrado em 2019 e será ministrado novamente em junho de 2022.
 Neste repositorio você encontra o Slide com a explicação dos tópicos e exemplos. 
 
 Para acessar o script do curso você pode acessar no RStudio Cloud : https://rstudio.cloud/project/3659870
+
 Neste script do RStudio cloud você consegue executar todos os comandos que são explicados nos slides e montar seus arquivos. 
 
 Neste repositório também colocamos uma imagem que usamos nos exemplos e a bibliografia utilizada. 
@@ -45,4 +46,5 @@ O que você vai aprender neste curso?
 Facilitadora:
  
 Marina Alves Amorim - Estatística : https://www.linkedin.com/in/marina-amorim-811b949b/
+
 Bacharel e mestre em Estatística pela UFMG. 
